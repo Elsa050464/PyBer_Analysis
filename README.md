@@ -11,7 +11,7 @@ In reviewing the data, several findings were observed:
 •	Urban cities have the most drivers but the average fare per ride per driver are also the least
 •	Drivers in the Rural areas have the average fare per ride and driver followed by suburban cities. 
 •	It is interesting to see that per summary data, as reflected, shows the inverse relationship between the total number of drivers and the average fare per ride per driver  
-"C:\Users\esbus\Desktop\Class\PyBer_Analysis\analysis\PyBer_fare_summary.png"
+"![image](https://user-images.githubusercontent.com/93121665/147894926-5f686dd4-26b3-41e8-951e-f21caed74a9c.png)
 ## 3. Summary:
  •	There is a high demand for more drivers in the Rural and Suburban cities as compared to urban cities as reflected by the fare per ride and average fare per driver 
  •	There should be a further analysis on what drives the higher fares for rural drivers e.g. Law of Supply and Demand or maybe travel distance 
