@@ -7,12 +7,12 @@ The following metrics were calculated and a dataframe was created to observe and
 ![image](https://user-images.githubusercontent.com/93121665/147894949-a9d04bcf-8182-4668-b835-47e6191a2031.png)
 ![image](https://user-images.githubusercontent.com/93121665/147894972-1d88de5e-6a26-4c00-bb48-8d7075507aca.png)
 ![image](https://user-images.githubusercontent.com/93121665/147894988-4e2d7700-9dba-492d-9580-99dfd4c119a2.png)
-In reviewing the data, several findings were observed: 
-•	Urban cities have the most drivers but the average fare per ride per driver are also the least
-•	Drivers in the Rural areas have the average fare per ride and driver followed by suburban cities. 
-•	It is interesting to see that per summary data, as reflected, shows the inverse relationship between the total number of drivers and the average fare per ride per driver  
+### In reviewing the data, several findings were observed: 
+#### •	Urban cities have the most drivers but the average fare per ride per driver are also the least
+#### •	Drivers in the Rural areas have the average fare per ride and driver followed by suburban cities. 
+#### •	It is interesting to see that per summary data, as reflected, shows the inverse relationship between the total number of drivers and the average fare per ride per driver  
 "![image](https://user-images.githubusercontent.com/93121665/147894926-5f686dd4-26b3-41e8-951e-f21caed74a9c.png)
 ## 3. Summary:
- •	There is a high demand for more drivers in the Rural and Suburban cities as compared to urban cities as reflected by the fare per ride and average fare per driver 
- •	There should be a further analysis on what drives the higher fares for rural drivers e.g. Law of Supply and Demand or maybe travel distance 
- •	Rideshare is still a lucrative business 
+#### •	There is a high demand for more drivers in the Rural and Suburban cities as compared to urban cities as reflected by the fare per ride and average fare per driver 
+#### •	There should be a further analysis on what drives the higher fares for rural drivers e.g. Law of Supply and Demand or maybe travel distance 
+#### •	Rideshare is still a lucrative business 
